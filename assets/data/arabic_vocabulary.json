@@ -1,0 +1,48 @@
+{
+  "animals": [
+    {"word": "كلب", "emoji": "🐶", "description": "حيوان أليف وفي"},
+    {"word": "قطة", "emoji": "🐱", "description": "حيوان أليف ناعم"},
+    {"word": "بقرة", "emoji": "🐮", "description": "حيوان المزرعة يعطينا حليبا"},
+    {"word": "أسد", "emoji": "🦁", "description": "ملك الغابة"},
+    {"word": "فيل", "emoji": "🐘", "description": "حيوان كبير له خرطوم"},
+    {"word": "قرد", "emoji": "🐵", "description": "حيوان ظريف يتسلق الأشجار"},
+    {"word": "عصفور", "emoji": "🐦", "description": "حيوان يطير في السماء"},
+    {"word": "سمكة", "emoji": "🐟", "description": "حيوان يسبح في الماء"},
+    {"word": "أرنب", "emoji": "🐰", "description": "حيوان ناعم له أذنان طويلتان"},
+    {"word": "دب", "emoji": "🐻", "description": "حيوان كبير فروي"}
+  ],
+  "fruits": [
+    {"word": "تفاحة", "emoji": "🍎", "description": "فاكهة حمراء لذيذة"},
+    {"word": "موز", "emoji": "🍌", "description": "فاكهة صفراء طويلة"},
+    {"word": "برتقال", "emoji": "🍊", "description": "فاكهة برتقالية مستديرة"},
+    {"word": "عنب", "emoji": "🍇", "description": "فاكهة صغيرة في عنقود"},
+    {"word": "فراولة", "emoji": "🍓", "description": "فاكهة حمراء صغيرة"},
+    {"word": "بطيخ", "emoji": "🍉", "description": "فاكهة خضراء كبيرة"},
+    {"word": "مانجو", "emoji": "🥭", "description": "فاكهة صفراء حلوة"},
+    {"word": "أناناس", "emoji": "🍍", "description": "فاكهة استوائية شائكة"}
+  ],
+  "colors": [
+    {"word": "أحمر", "emoji": "🔴", "description": "لون الفراولة"},
+    {"word": "أزرق", "emoji": "🔵", "description": "لون السماء"},
+    {"word": "أخضر", "emoji": "🟢", "description": "لون الأوراق"},
+    {"word": "أصفر", "emoji": "🟡", "description": "لون الشمس"},
+    {"word": "بنفسجي", "emoji": "🟣", "description": "لون العنب"},
+    {"word": "برتقالي", "emoji": "🟠", "description": "لون البرتقال"},
+    {"word": "أبيض", "emoji": "⚪", "description": "لون الثلج"},
+    {"word": "أسود", "emoji": "⚫", "description": "لون الليل"},
+    {"word": "بني", "emoji": "🟤", "description": "لون الشوكولاتة"},
+    {"word": "وردي", "emoji": "🩷", "description": "لون جميل ناعم"}
+  ],
+  "body_parts": [
+    {"word": "رأس", "emoji": "🗣️", "description": "فوق الجسم"},
+    {"word": "عين", "emoji": "👁️", "description": "نرى بها"},
+    {"word": "أنف", "emoji": "👃", "description": "نشم به"},
+    {"word": "فم", "emoji": "👄", "description": "نأكل ونتكلم به"},
+    {"word": "أذن", "emoji": "👂", "description": "نسمع بها"},
+    {"word": "يد", "emoji": "✋", "description": "نمسك بها الأشياء"},
+    {"word": "رجل", "emoji": "🦵", "description": "نمشي بها"},
+    {"word": "قدم", "emoji": "🦶", "description": "نقف عليها"},
+    {"word": "فم", "emoji": "🦷", "description": "نأكل ونبتسم به"},
+    {"word": "شعر", "emoji": "💇", "description": "على رأسنا"}
+  ]
+}

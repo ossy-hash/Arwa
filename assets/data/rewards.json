@@ -1,0 +1,12 @@
+[
+  {"id": "first_lesson", "name": "First Steps", "emoji": "🌟", "description": "Complete your first lesson", "stars": 1},
+  {"id": "alphabet_master", "name": "ABC Master", "emoji": "🔤", "description": "Complete all alphabet lessons", "stars": 5},
+  {"id": "math_whiz", "name": "Math Whiz", "emoji": "🧮", "description": "Complete all math lessons", "stars": 5},
+  {"id": "game_champion", "name": "Game Champion", "emoji": "🏆", "description": "Win all mini games", "stars": 10},
+  {"id": "star_collector", "name": "Star Collector", "emoji": "⭐", "description": "Collect 50 stars", "stars": 50},
+  {"id": "coin_hoarder", "name": "Coin Hoarder", "emoji": "🪙", "description": "Collect 100 coins", "stars": 0},
+  {"id": "perfect_score", "name": "Perfect Score", "emoji": "💯", "description": "Get 3 stars on any lesson", "stars": 3},
+  {"id": "big_reader", "name": "Big Reader", "emoji": "📚", "description": "Read 10 vocabulary words", "stars": 10},
+  {"id": "shape_expert", "name": "Shape Expert", "emoji": "🔷", "description": "Learn all shapes", "stars": 8},
+  {"id": "super_learner", "name": "Super Learner", "emoji": "🚀", "description": "Earn all badges", "stars": 100}
+]

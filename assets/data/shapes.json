@@ -1,0 +1,12 @@
+[
+  {"name": "Circle", "emoji": "⭕", "sides": 0, "description": "Round like a ball"},
+  {"name": "Square", "emoji": "🟦", "sides": 4, "description": "Four equal sides"},
+  {"name": "Triangle", "emoji": "🔺", "sides": 3, "description": "Three sides"},
+  {"name": "Rectangle", "emoji": "📘", "sides": 4, "description": "Two long, two short sides"},
+  {"name": "Star", "emoji": "⭐", "sides": 5, "description": "Shines in the sky"},
+  {"name": "Heart", "emoji": "❤️", "sides": 0, "description": "Shape of love"},
+  {"name": "Diamond", "emoji": "💠", "sides": 4, "description": "Like a kite"},
+  {"name": "Oval", "emoji": "🥚", "sides": 0, "description": "Like an egg"},
+  {"name": "Crescent", "emoji": "🌙", "sides": 0, "description": "Like the moon"},
+  {"name": "Pentagon", "emoji": "🏠", "sides": 5, "description": "Like a house shape"}
+]

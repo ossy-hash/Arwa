@@ -1,0 +1,60 @@
+{
+  "animals": [
+    {"word": "Dog", "emoji": "🐶", "description": "A friendly pet that barks"},
+    {"word": "Cat", "emoji": "🐱", "description": "A fluffy pet that meows"},
+    {"word": "Cow", "emoji": "🐮", "description": "A farm animal that gives milk"},
+    {"word": "Lion", "emoji": "🦁", "description": "The king of the jungle"},
+    {"word": "Elephant", "emoji": "🐘", "description": "A big animal with a long trunk"},
+    {"word": "Monkey", "emoji": "🐵", "description": "A funny animal that climbs trees"},
+    {"word": "Bird", "emoji": "🐦", "description": "An animal that flies in the sky"},
+    {"word": "Fish", "emoji": "🐟", "description": "An animal that swims in water"},
+    {"word": "Rabbit", "emoji": "🐰", "description": "A soft animal with long ears"},
+    {"word": "Bear", "emoji": "🐻", "description": "A big furry animal"}
+  ],
+  "fruits": [
+    {"word": "Apple", "emoji": "🍎", "description": "A red fruit that is sweet"},
+    {"word": "Banana", "emoji": "🍌", "description": "A yellow fruit that is long"},
+    {"word": "Orange", "emoji": "🍊", "description": "A round orange fruit"},
+    {"word": "Grapes", "emoji": "🍇", "description": "Small round fruits in a bunch"},
+    {"word": "Strawberry", "emoji": "🍓", "description": "A red fruit with seeds"},
+    {"word": "Watermelon", "emoji": "🍉", "description": "A big green fruit that is red inside"},
+    {"word": "Mango", "emoji": "🥭", "description": "A sweet yellow fruit"},
+    {"word": "Pineapple", "emoji": "🍍", "description": "A spiky tropical fruit"}
+  ],
+  "colors": [
+    {"word": "Red", "emoji": "🔴", "description": "The color of strawberries"},
+    {"word": "Blue", "emoji": "🔵", "description": "The color of the sky"},
+    {"word": "Green", "emoji": "🟢", "description": "The color of leaves"},
+    {"word": "Yellow", "emoji": "🟡", "description": "The color of the sun"},
+    {"word": "Purple", "emoji": "🟣", "description": "The color of grapes"},
+    {"word": "Orange", "emoji": "🟠", "description": "The color of oranges"},
+    {"word": "Pink", "emoji": "🩷", "description": "A soft pretty color"},
+    {"word": "White", "emoji": "⚪", "description": "The color of snow"},
+    {"word": "Black", "emoji": "⚫", "description": "The color of night"},
+    {"word": "Brown", "emoji": "🟤", "description": "The color of chocolate"}
+  ],
+  "body_parts": [
+    {"word": "Eye", "emoji": "👁️", "description": "We see with our eyes"},
+    {"word": "Ear", "emoji": "👂", "description": "We hear with our ears"},
+    {"word": "Nose", "emoji": "👃", "description": "We smell with our nose"},
+    {"word": "Mouth", "emoji": "👄", "description": "We eat and speak with our mouth"},
+    {"word": "Hand", "emoji": "✋", "description": "We hold things with our hands"},
+    {"word": "Foot", "emoji": "🦶", "description": "We stand on our feet"},
+    {"word": "Arm", "emoji": "💪", "description": "We hug with our arms"},
+    {"word": "Leg", "emoji": "🦵", "description": "We kick with our legs"},
+    {"word": "Head", "emoji": "🗣️", "description": "Our head is on top of our body"},
+    {"word": "Tooth", "emoji": "🦷", "description": "We chew food with our teeth"}
+  ],
+  "vegetables": [
+    {"word": "Carrot", "emoji": "🥕", "description": "A long orange vegetable"},
+    {"word": "Broccoli", "emoji": "🥦", "description": "A green vegetable like tiny trees"},
+    {"word": "Tomato", "emoji": "🍅", "description": "A round red vegetable"},
+    {"word": "Corn", "emoji": "🌽", "description": "A yellow vegetable with kernels"},
+    {"word": "Potato", "emoji": "🥔", "description": "A brown vegetable that grows in the ground"},
+    {"word": "Lettuce", "emoji": "🥬", "description": "A green leafy vegetable"},
+    {"word": "Cucumber", "emoji": "🥒", "description": "A long green crunchy vegetable"},
+    {"word": "Pepper", "emoji": "🫑", "description": "A colorful vegetable that can be sweet"},
+    {"word": "Onion", "emoji": "🧅", "description": "A round vegetable that makes us cry"},
+    {"word": "Mushroom", "emoji": "🍄", "description": "A funny shaped vegetable"}
+  ]
+}

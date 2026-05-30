@@ -1,0 +1,12 @@
+[
+  {"number": 1, "word": "One", "emoji": "1️⃣", "count": "⭐"},
+  {"number": 2, "word": "Two", "emoji": "2️⃣", "count": "⭐⭐"},
+  {"number": 3, "word": "Three", "emoji": "3️⃣", "count": "⭐⭐⭐"},
+  {"number": 4, "word": "Four", "emoji": "4️⃣", "count": "⭐⭐⭐⭐"},
+  {"number": 5, "word": "Five", "emoji": "5️⃣", "count": "⭐⭐⭐⭐⭐"},
+  {"number": 6, "word": "Six", "emoji": "6️⃣", "count": "🍎🍎🍎🍎🍎🍎"},
+  {"number": 7, "word": "Seven", "emoji": "7️⃣", "count": "🌸🌸🌸🌸🌸🌸🌸"},
+  {"number": 8, "word": "Eight", "emoji": "8️⃣", "count": "🐶🐶🐶🐶🐶🐶🐶🐶"},
+  {"number": 9, "word": "Nine", "emoji": "9️⃣", "count": "🌈🌈🌈🌈🌈🌈🌈🌈🌈"},
+  {"number": 10, "word": "Ten", "emoji": "🔟", "count": "🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈"}
+]

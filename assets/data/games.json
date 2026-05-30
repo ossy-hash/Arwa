@@ -1,0 +1,29 @@
+{
+  "matching": {
+    "title": "Word Match",
+    "description": "Match the word with the correct picture",
+    "levels": [
+      {"level": 1, "pairs": 3, "category": "animals"},
+      {"level": 2, "pairs": 4, "category": "fruits"},
+      {"level": 3, "pairs": 5, "category": "colors"}
+    ]
+  },
+  "balloon_pop": {
+    "title": "Balloon Pop",
+    "description": "Pop the balloon with the correct letter",
+    "levels": [
+      {"level": 1, "letters": 3},
+      {"level": 2, "letters": 4},
+      {"level": 3, "letters": 5}
+    ]
+  },
+  "memory": {
+    "title": "Memory Match",
+    "description": "Find the matching pairs",
+    "levels": [
+      {"level": 1, "pairs": 4},
+      {"level": 2, "pairs": 6},
+      {"level": 3, "pairs": 8}
+    ]
+  }
+}
