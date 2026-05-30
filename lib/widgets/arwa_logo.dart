@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import '../utils/theme.dart';
 
 class ArwaLogo extends StatelessWidget {
   final double size;
@@ -12,8 +11,6 @@ class ArwaLogo extends StatelessWidget {
       width: size,
       height: size,
       decoration: BoxDecoration(
-        color: Colors.white,
-        borderRadius: BorderRadius.circular(size * 0.25),
         boxShadow: [
           BoxShadow(
             color: Colors.black.withValues(alpha: 0.12),
@@ -22,29 +19,14 @@ class ArwaLogo extends StatelessWidget {
           ),
         ],
       ),
-      child: Stack(
-        alignment: Alignment.center,
-        children: [
-          Text(
-            'A',
-            style: TextStyle(
-              fontSize: size * 0.65,
-              fontWeight: FontWeight.w900,
-              color: AppTheme.purple,
-              letterSpacing: 0,
-            ),
-          ),
-          Positioned(
-            top: size * 0.18,
-            child: Text(
-              '★',
-              style: TextStyle(
-                fontSize: size * 0.15,
-                color: AppTheme.yellow,
-              ),
-            ),
-          ),
-        ],
+      child: ClipRRect(
+        borderRadius: BorderRadius.circular(size * 0.25),
+        child: Image.asset(
+          'assets/icons/app_icon.png',
+          width: size,
+          height: size,
+          fit: BoxFit.cover,
+        ),
       ),
     );
   }
@@ -61,17 +43,15 @@ class SmallLogo extends StatelessWidget {
       width: size,
       height: size,
       decoration: BoxDecoration(
-        color: AppTheme.yellow,
         borderRadius: BorderRadius.circular(size * 0.3),
       ),
-      child: Center(
-        child: Text(
-          'A',
-          style: TextStyle(
-            fontSize: size * 0.55,
-            fontWeight: FontWeight.w900,
-            color: AppTheme.purple,
-          ),
+      child: ClipRRect(
+        borderRadius: BorderRadius.circular(size * 0.3),
+        child: Image.asset(
+          'assets/icons/app_icon.png',
+          width: size,
+          height: size,
+          fit: BoxFit.cover,
         ),
       ),
     );

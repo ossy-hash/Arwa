@@ -1,11 +1,11 @@
 {
-    "name": "arwa",
-    "short_name": "arwa",
+    "name": "ARWA - Kids Learning App",
+    "short_name": "ARWA",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#9B59B6",
+    "theme_color": "#9B59B6",
+    "description": "ARWA - A fun and interactive kids learning app for English, Math, Arabic, and Games.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
