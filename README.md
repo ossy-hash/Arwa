@@ -1,17 +1,33 @@
-# arwa
+# ARWA - Kids Learning App
 
-A new Flutter project.
+Interactive learning app for kids with English, Math, Arabic, and Mini Games.
+
+## Features
+
+### 🇬🇧 English
+Alphabet, Vocabulary, Tracing, Phonics, Sight Words, Spelling, Animals, Fruits, Colors, Body Parts, Vegetables, Matching
+
+### 🔢 Math
+Counting, Addition, Subtraction, Shapes, Number Match, Multiplication, Division, Skip Counting, Comparison, Clock, Measurement, Count & Tap
+
+### 🇸🇦 Arabic
+Arabic Alphabet (أ-ي), Vocabulary, Tracing, Animals, Fruits, Colors, Body Parts
+
+### 🎮 Mini Games
+Word Match, Balloon Pop, Memory Match, Word Puzzle
+
+### 🏆 Rewards & Progress
+Stars, coins, badges, and progress tracking with local storage.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+```bash
+flutter pub get
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+### Build APK
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter build apk --release
+```
